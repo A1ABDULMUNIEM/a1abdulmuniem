@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Django & Odoo developer
 -------------------------------------------
 
-a dedicated Django developer with a passion for creating and customizing robust ERP solutions. My background in customer service has honed my communication and problem-solving skills, allowing me to truly understand client needs and deliver software that makes a difference. 🔧 What I Do: I specialize in developing scalable and efficient ERP solutions using Django, and have deep expertise in Odoo, Linux, and PostgreSQL. Whether I’m building custom modules for Odoo or fine-tuning a Linux-based deployment, I blend technical precision with a client-first approach. ✨ How I Work: From conceptualizing custom workflows to optimizing existing systems, I transform complex business challenges into elegant, streamlined solutions. My unique journey—from delivering top-notch support as a customer service representative to mastering backend development—drives me to create tools that empower businesses. 📬 Let’s Connect: Feel free to reach out via email at ahmadabdulmuniem8@gmail.com — I’m always excited to connect and explore new ideas or collaboration opportunities.
+A dedicated Django developer with a passion for creating and customizing robust ERP solutions.
+My background in customer service has honed my communication and problem-solving skills, allowing me to truly understand client needs and deliver software that makes a difference. 
+🔧 What I Do: I specialize in developing scalable and efficient ERP solutions using Django, and have deep expertise in Odoo, Linux, and PostgreSQL. Whether I’m building custom modules for Odoo or fine-tuning a Linux-based deployment, I blend technical precision with a client-first approach. 
+✨ How I Work: From conceptualizing custom workflows to optimizing existing systems, I transform complex business challenges into elegant, streamlined solutions. My unique journey—from delivering top-notch support as a customer service representative to mastering backend development—drives me to create tools that empower businesses.
+📬 Let’s Connect: Feel free to reach out via email at ahmadabdulmuniem8@gmail.com — I’m always excited to connect and explore new ideas or collaboration opportunities.
 
 *   🌍  I'm based in Cairo, Egypt
 *   ✉️  You can contact me at [ahmadabdulmuniem8@gmail.com](mailto:ahmadabdulmuniem8@gmail.com)
