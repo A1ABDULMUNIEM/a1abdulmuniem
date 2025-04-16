@@ -28,8 +28,7 @@ a dedicated Django developer with a passion for creating and customizing robust 
   </a>
 </p>
 
-<h3>Badges</h3>
-<b>My GitHub Stats</b><br>
+
 
 <a href="https://github.com/a1abdulmuniem">
   <img src="https://github-readme-stats.vercel.app/api?username=a1abdulmuniem&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="a1abdulmuniem's GitHub stats" />
@@ -49,8 +48,3 @@ a dedicated Django developer with a passion for creating and customizing robust 
 <a href="https://github.com/a1abdulmuniem" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1abdulmuniem&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
-<h3>Top Repositories</h3>
-<div align="center">
-  <!-- You can add additional elements or embed your top repositories here -->
-</div>
